@@ -1,0 +1,20 @@
+{
+  "name": "sdi-blended-workshop-async",
+  "version": "1.0.0",
+  "description": "Async Pokemon type command line application",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/sdi-blended-async-scaffold.git"
+  },
+  "author": "gSchool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/sdi-blended-async-scaffold/issues"
+  },
+  "homepage": "https://github.com/gSchool/sdi-blended-async-scaffold#readme"
+}
