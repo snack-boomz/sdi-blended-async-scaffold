@@ -4,9 +4,9 @@
   "description": "Async Pokemon type command line application",
   "main": "app.js",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gSchool/sdi-blended-async-scaffold.git"
